@@ -1,0 +1,4 @@
+javac -sourcepath .\ by.bsuir.travelsit1.buzhinskaya.server.EnterPoint.java
+javac -sourcepath .\ by.bsuir.travelsit1.buzhinskaya.client.EnterPoint.java
+java -classpath .\ by.bsuir.travelsit1.buzhinskaya.server.EnterPoint
+java -classpath .\ by.bsuir.travelsit1.buzhinskaya.client.EnterPoint
